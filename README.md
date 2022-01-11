@@ -1,6 +1,6 @@
 # Pychain_Python_BlockChainsallad
 A proof of concept blockchain in python viewable with Streamlit
 ![alt="PyChain Ledger Validation"](Pychain_Images/ScreenShot1.png)
-!Screenshot_blocks2(https://github.com/sallad4/Pychain_Python_BlockChain/blob/main/ScreenShot2.png?raw=true)
-!Screenshot_blocks3(https://github.com/sallad4/Pychain_Python_BlockChain/blob/main/ScreenShot3.png?raw=true)
-!Screenshot_blocks4(https://github.com/sallad4/Pychain_Python_BlockChain/blob/main/ScreenShot4.png?raw=true)
+![alt="PyChain Ledger Validation"](Pychain_Images/ScreenShot2.png)
+![alt="PyChain Ledger Validation"](Pychain_Images/ScreenShot3.png)
+![alt="PyChain Ledger Validation"](Pychain_Images/ScreenShot4.png)
